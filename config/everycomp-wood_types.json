@@ -1,0 +1,42 @@
+{
+  "types": {
+    "wood_type": {
+      "betternether.nether_reed": true,
+      "betternether.stalagnate": true,
+      "betternether.willow": true,
+      "betternether.wart": true,
+      "betternether.rubeus": true,
+      "betternether.mushroom_fir": true,
+      "betternether.nether_mushroom": true,
+      "betternether.anchor_tree": true,
+      "betternether.nether_sakura": true,
+      "betterend.mossy_glowshroom": true,
+      "betterend.pythadendron": true,
+      "betterend.end_lotus": true,
+      "betterend.lacugrove": true,
+      "betterend.dragon_tree": true,
+      "betterend.tenanea": true,
+      "betterend.helix_tree": true,
+      "betterend.umbrella_tree": true,
+      "betterend.jellyshroom": true,
+      "betterend.lucernia": true,
+      "botania.livingwood": true,
+      "botania.dreamwood": true
+    },
+    "leaves_type": {
+      "betterend.pythadendron": true,
+      "betterend.lacugrove": true,
+      "betterend.dragon_tree": true,
+      "betterend.tenanea": true,
+      "betterend.lucernia": true
+    }
+  },
+  "entries": {
+    "wood_type": {
+      "farmersdelight.cabinet": true,
+      "create.window_pane": true,
+      "create.window": true
+    },
+    "leaves_type": {}
+  }
+}
